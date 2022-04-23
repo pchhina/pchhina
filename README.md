@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pchhina
-- 👀 I’m interested in functional programming style
-- 🌱 I’m currently learning program design
-- 💞️ I’m looking to collaborate on any Racket project
+- 👀 I’m interested in front web development
+- 🌱 I’m currently javascript (and React in the future)
+- 💞️ I’m looking to collaborate on any React project
 - 📫 How to reach me param.chhina@gmail.com
 
 <!---
