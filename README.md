@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pchhina
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently doing projects using javascript, react and react-native
-- 💞️ I’m looking to collaborate on any React project
+- 👀 I’m interested in the intersection of software and mobility
+- 🌱 I’m familiar with functional and OOP paradigms
+- 💞️ I’m expert in thermo-fluids applications in automotive industry
 - 📫 How to reach me param.chhina@gmail.com
 
 <!---
