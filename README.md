@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pchhina
-- 👀 I’m interested in the intersection of software and mobility
+- 👀 I’m interested to work at the cross-section of software and mobility
 - 🌱 I’m love working with both functional and OOP paradigms
 - 💞️ I’m an expert in thermo-fluids applications in automotive industry
 - 📫 How to reach me param.chhina@gmail.com
